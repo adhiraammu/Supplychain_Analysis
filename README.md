@@ -5,6 +5,10 @@
 ## About the Dataset:
 For this project, I worked with a dataset from Kaggle - DataCo Global, focusing on supply chain data. The dataset provides detailed insights into the company's shipment records, customer interactions, and product information. Supply chain management's key goal is to ensure that products are delivered to customers efficiently, reliably, and in a way that meets customer expectations, ultimately driving company sales and customer satisfaction. Effective supply chain analytics can improve inventory management, optimize delivery routes, and ensure better performance monitoring (DFreight, 2022).
 
+## Quick Links
+01. [DataAnalysis_Notebook](https://github.com/adhiraammu/Supplychain_Analysis/blob/main/Data_Analysis.ipynb)
+02. [Tableau](https://public.tableau.com/app/profile/adhira.ranjith.kumar/viz/Supplychain_dashboard/Story1?publish=yes)
+
 ## Exploratory Data Analysis:
 The first step in the analysis process was loading the dataset and exploring its structure. The dataset contains various attributes related to customer orders, shipment details, product categories, and financial figures.
 
